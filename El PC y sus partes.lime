@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\ESTUDIANTE\Downloads\edilim564win32\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <adxuntos>C:\Users\ESTUDIANTE\Downloads\edilim564win32\edilim564\El,PC,y,sus,partes..lime</adxuntos>
+          <corfondo>FFFFFF</corfondo>
+        <corbanda>00FFFF</corbanda>
+        <cornavega>00FFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Aprendo las Partes de mi PC</titulo>
+          <subtitulo>Partes de mi PC</subtitulo>
+          <autor>George Guerrero Nuñez</autor>
+        <logo>..\edilim564\80612547-reparaci_on-de-icono-de-computadora-elemento-de-disenno-de-logotipo.jpg</logo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\edilim564\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="..\edilim564\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-3">..\edilim564\Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-1">..\edilim564\Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564\Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="1">..\edilim564\Diapositiva4.JPG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="1">..\edilim564\Diapositiva5.JPG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>46</tipo>
+              <etiqueta texto="Sirve para escribir textos, números y usar comandos."  posy="3">Torre (CPU)</etiqueta>
+              <etiqueta texto="Muestra todo lo que haces en el computador en forma de imágenes."  posy="4">Mouse</etiqueta>
+              <etiqueta texto="Se usa para mover el cursor y hacer clic."  posy="2">Teclado</etiqueta>
+              <etiqueta texto="Es la parte que procesa la información y hace funcionar los programas."  posy="1">Monitor</etiqueta>
+              <etiqueta texto="Permiten escuchar sonidos, música o videos desde el computador."  posy="5">Parlantes</etiqueta>
+              <etiqueta texto="Sirve para obtener en papel documentos, tareas o imágenes del computador."  posy="6">Impresora</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <texto>¿Qué parte del computador muestra lo que haces?</texto>
+              <resp texto="" valor="0">Teclado</resp>
+              <resp texto="" valor="1">Monitor</resp>
+              <resp texto="" valor="0">Mouse</resp>
+              <resp texto="" valor="0">Torre</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>36</tipo>
+              <forma>0</forma>
+              <modo>1</modo>
+              <etiqueta>11102222</etiqueta>
+              <etiqueta>10102002</etiqueta>
+              <etiqueta>11102000</etiqueta>
+              <etiqueta>10002000</etiqueta>
+              <etiqueta>10002000</etiqueta>
+              <etiqueta>10002002</etiqueta>
+              <etiqueta>10002222</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>13</tipo>
+              <unir texto="Escribo con el ">Teclado</unir>
+              <unir texto="Hago clic con el ">Mouse</unir>
+              <unir texto="Veo todo en el">Monitor</unir>
+              <unir texto="Procesa todo la">CPU</unir>
+              <unir texto="Escucho con los">Parlante</unir>
+        </paxina>
+    </libro>
+</lim>
